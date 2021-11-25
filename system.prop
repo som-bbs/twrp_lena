@@ -1,0 +1,10 @@
+ro.display.series=Sony xperia 10 III
+ro.product.board=lito
+ro.board.platform=lito
+
+persist.sys.usb.config=mtp,adb
+persist.sys.isUsbOtgEnabled=true
+ro.boot.dynamic_partitions=true
+fbe.metadata.wrappedkey=true
+ro.adb.secure=0
+ro.crypto.volume.filenames_mode=aes-256-cts
